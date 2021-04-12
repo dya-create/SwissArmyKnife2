@@ -2,18 +2,21 @@
 ## Diya Patel
 ### Email: diyapatel@lewisu.edu
 #### Overview: This is a command-line application that implements a variety of function focused on distributed computing and web services.
-Credits: git clone --depth=1 https://github.com/EricJPogue/cpsc-example-code.git (HttpRequest.java) (SleepFast.java)
-Installation: There are four files required to run this application.
+
+
+##### Credits: git clone --depth=1 https://github.com/EricJPogue/cpsc-example-code.git (HttpRequest.java) (SleepFast.java)
+
+##### Installation: There are four files required to run this application.
               1) Help.java 
               2) HttpRequest.java (see credits section for the credits of the source code)
               3) HttpRequestIndex.java
               4) sak.java
 
 
-Calculates the total time elapsed each time it is executed in milliseconds
+##### Calculates the total time elapsed each time it is executed in milliseconds
 Displays and labels elapsed time appropriately
 
-Implements a “-Sleep” command-line parameter
+###### Implements a “-Sleep” command-line parameter
 Implements a “-SleepFast” command-line parameter
 Implements a “-SleepFastImplementsRunnable” command-line parameter
 Updates the existing “-Help” features to include descriptions and copy/paste examples
