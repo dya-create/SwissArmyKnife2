@@ -1,7 +1,7 @@
 # SwissArmyKnife2
-##Diya Patel
-###Email: diyapatel@lewisu.edu
-####Overview: This is a command-line application that implements a variety of function focused on distributed computing and web services.
+## Diya Patel
+### Email: diyapatel@lewisu.edu
+#### Overview: This is a command-line application that implements a variety of function focused on distributed computing and web services.
 Credits: git clone --depth=1 https://github.com/EricJPogue/cpsc-example-code.git (HttpRequest.java) (SleepFast.java)
 Installation: There are four files required to run this application.
               1) Help.java 
